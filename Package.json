@@ -1,0 +1,9 @@
+{
+  "name": "my-earning-bot",
+  "version": "1.0.0",
+  "description": "Telegram Earning Bot",
+  "main": "index.js",
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
